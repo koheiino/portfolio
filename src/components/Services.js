@@ -82,12 +82,12 @@ const Services = () => {
                           {details}
                         </p>
                       </div>
-                      <div className='flex flex-col flex-1 items-end'>
+                      {/* <div className='flex flex-col flex-1 items-end'>
                         <a href='#'className='btn w-9 h-9 flex justify-center items-center mb-9'>
                           <BsArrowUpRight />
                         </a>
                         <a href='#' className='text-gradient text-sm'>{link}</a>
-                      </div>
+                      </div> */}
                     </div>
                   );
                 })}
